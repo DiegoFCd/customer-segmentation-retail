@@ -36,18 +36,18 @@ Todo esto se pude apreciar en el Dashboard realizado con Power BI.
 ---
 
 ## 📈 Segmentation Dashboard Preview
+* Dashboard General:
+  <br>
+[![Captura-dash-ventas.png](https://i.postimg.cc/0jCV3Hgn/Captura-dash-ventas.png)](https://postimg.cc/CnzCn7xn) <br>
 
+<br>
 
-[![Captura-dash-ventas.png](https://i.postimg.cc/0jCV3Hgn/Captura-dash-ventas.png)](https://postimg.cc/CnzCn7xn)  
+* Reglas de Asociación, Lift y Confianza:
+  
+<br>
+
 [![Captura-dash-reglas.png](https://i.postimg.cc/FsDPVqVN/Captura-dash-reglas.png)](https://postimg.cc/8jfB1ZY0)
 
----
-
-## 🔍 Methodology
-1. **Data cleaning**: tratamiento de nulos y outliers  
-2. **Feature selection**: métricas clave (freq, recency, monetary)  
-3. **Clustering model** (K-Means)  
-4. **Cluster interpretation**
 
 ---
 
