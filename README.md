@@ -4,14 +4,12 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/RedNeuronalBasicaConCapasOcultas.ipynb)
 
 ## 📌 Business Problem
-Una cadena retail desea clasificar sus clientes para enfocar campañas comerciales y mejorar retención y ventas.
+A retail chain wants to classify its customers in order to focus marketing campaigns and improve customer retention and sales.
 
 ## 🎯 Objective
-Segmentar la base de clientes según patrones de compra para definir estrategias de marketing personalizadas.
+Segment the customer base according to purchasing patterns to define personalized marketing strategies.
 
-Para ello desarrollé un modelo de analisis robusto a partir de un dataset complejo y desestructurado sobre la venta de un Supermercado, aplicando técnicas avanzadas de **EDA (Análisis Exploratorio de Datos)** y **ETL (Extracción, Transformación y Carga)**. El resultado final permite generar insights accionables para la toma de decisiones objetivas en el ámbito empresarial.<br>
-Se trabajo con análisis de KPIS más relevantes para la empresa, Market Basket Case (MBA), y ABC Analysis para obtener los insights buscados y trabajar sobre los mismos para aplicar en la práctica operativa de la compañia.
-Todo esto se pude apreciar en el Dashboard realizado con Power BI.
+To achieve this, I developed a robust analytical model from a complex and unstructured dataset on supermarket sales, applying advanced Exploratory Data Analysis (EDA) and Extraction, Transformation, and Loading (ETL) techniques. The final result generates actionable insights for objective decision-making within the business environment. The analysis included key performance indicators (KPIs) most relevant to the company, Market Basket Case (MBA), and ABC Analysis to obtain the desired insights and apply them to the company's operational practices. All of this is presented in the dashboard created with Power BI.
 
 <p align="center">
   <a href="https://postimg.cc/9RSp0Pdg" target="_blank">
@@ -36,13 +34,13 @@ Todo esto se pude apreciar en el Dashboard realizado con Power BI.
 ---
 
 ## 📈 Segmentation Dashboard Preview
-* Dashboard General:
+* General Dashboard:
   <br>
 [![Captura-dash-ventas.png](https://i.postimg.cc/0jCV3Hgn/Captura-dash-ventas.png)](https://postimg.cc/CnzCn7xn) <br>
 
 <br>
 
-* Reglas de Asociación, Lift y Confianza:
+* Rules of Association, Lift and Trust:
   
 <br>
 
@@ -52,24 +50,24 @@ Todo esto se pude apreciar en el Dashboard realizado con Power BI.
 ---
 
 ## 🧠 Key Insights
-✔ Se identificaron **3 segmentos clave de clientes**  
-✔ Segmentos con distinto valor de ticket promedio y frecuencia  
-✔ Recomendaciones comerciales incluidas
+✔ Three key customer segments were identified.
+✔ Segments with varying average order value and purchase frequency.
+✔ Sales recommendations included.
 
 ---
 
 ## 📈 Business Impact 
-✔ Permite campañas personalizadas que pueden **aumentar RFM por segmento**  
-✔ Mejora retención y crecimiento base de clientes
+✔ Enables customized campaigns that can **increase RFM per segment**
+✔ Improves customer retention and growth
 
-# Archivos grandes (no versionados)
+# Large (non-versioned) files
 
-Este repositorio no incluye los artefactos pesados. Descárgalos desde:
+This repository does not include large files. Download them from:
 
-- **Base de datos**: [Descargar](https://drive.google.com/file/d/1ZiEv-tG7UwDWdPul-Ang7vbPx0s3CgAo/view?usp=sharing)
+- **DB**: [Descargar](https://drive.google.com/file/d/1ZiEv-tG7UwDWdPul-Ang7vbPx0s3CgAo/view?usp=sharing)
   - Ubicación local esperada: `DB_sanoyfresco/sanoyfresco.db`
 
-- **Informe Power BI**: [Descargar](https://drive.google.com/file/d/1rcfKEG6V320r8f68jGzBgI3G66zw9o-V/view?usp=sharing)
+- **Power BI Report**: [Descargar](https://drive.google.com/file/d/1rcfKEG6V320r8f68jGzBgI3G66zw9o-V/view?usp=sharing)
   - Ubicación local esperada: `2-power bi/sano_y_fresco.pbix`
 
-> Tras descargarlos, colócalos en las rutas indicadas. Están ignorados por `.gitignore`.
+After downloading them, place them in the indicated paths. They are ignored by `.gitignore`.
